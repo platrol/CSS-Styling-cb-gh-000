@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Mukta+Mahee');
+
+figcaption{
+    font: normal 1em/1.5em 'Mukta Mahee', fantasy, Courier;
+    /*font-family: "Fira Code Retina", fantasy, Courier;*/
+    color: #7F2;
+
+}
+
+.milk-text{
+    font: bold 1em/1em 'Mukta Mahee', fantasy, Courier;
+    color: white;
+    text-shadow: 2px 1px 3px #000;
+}
+
+#details a:link, #details a:visited{
+    color: black;
+    text-decoration: none;
+}
